@@ -23,5 +23,5 @@
  -------  ------------  
  Fundamentos do Python | [Certificado](https://web.dio.me/certificates)
  ------
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[Ana Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=anajuliaprecioso-crypto&show_icons=true&theme=dark)
 
