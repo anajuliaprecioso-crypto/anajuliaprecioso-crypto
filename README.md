@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**anajuliaprecioso-crypto/anajuliaprecioso-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sejam Bem-vindos ao meu Mundo!
 
-Here are some ideas to get you started:
+![Gif do Gatinho](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👽 Olá, muito prazer, me chamo Ana Julia!
+
+💻 Sou estudante do terceiro período de Análise e Desenvolvimento de Sistemas, com interesse em Inteligência Artificial (IA).
+
+📪 [Acesse o meu LinkedIn](https://www.linkedin.com/in/ana-julia-vieira-precioso-a290771a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+-----
+## Minhas Tecnologias
+
+ <img src="https://devicon-website.vercel.app/api/python/original.svg" width="100px"></img>
+
+-------
+
+ | Cursos | Certificados |
+ -------  ------------  
+ Fundamentos do Python | [Certificado](https://web.dio.me/certificates)
+ ------
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
