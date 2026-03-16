@@ -21,7 +21,7 @@
 
  | Courses | Certificates |
  -------  ------------  
- Python Fundamentals| [Certificate](https://web.dio.me/certificates)
+ Python Fundamentals| [Certificate](https://assets.dio.me/8C_jaPs69HDpTjP9oiHMj-BrJIZGTJt_UWVcpWOTGVw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9SVzBZUTFWSC5qcGc)
  ------
 [Ana Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=anajuliaprecioso-crypto&show_icons=true&theme=dark)
 
