@@ -16,7 +16,7 @@
 ## My technologies
 
  <img src="https://devicon-website.vercel.app/api/python/original.svg" width="100px"></img>
- <img src= "https://cms-assets.tutsplus.com/uploads/users/1499/posts/29328/preview_image/kotlin.jpg" width="100px"></img>
+ <img src= "https://ih1.redbubble.net/image.1058387517.1288/mo,large,flatlay,product_square,600x600.u4.jpg" width="100px"></img>
 
 -------
 
