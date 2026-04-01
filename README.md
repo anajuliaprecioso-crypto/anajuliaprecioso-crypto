@@ -2,7 +2,7 @@
 
 ## Welcome to my world!
 
-![Gif do Gatinho](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+![Gif do Gatinho](https://i.pinimg.com/originals/6f/4f/a5/6f4fa5fea73897955d4b0508c47eeca5.gif)
 ----
 
 
